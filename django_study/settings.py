@@ -45,6 +45,7 @@ INSTALLED_APPS = [
 
     # User Defined App
     'blog',
+    'account',
 
     # 3rd party app
     'taggit',
